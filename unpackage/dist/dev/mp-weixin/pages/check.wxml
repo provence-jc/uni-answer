@@ -1,0 +1,1 @@
+<view class="check-con _div"><block wx:if="{{back}}"><view class="check-con-info _p">请退出</view></block></view>

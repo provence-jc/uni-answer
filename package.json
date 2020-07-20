@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "element-ui": "^2.13.2",
+    "luch-request": "^3.0.4",
+    "mp-storage": "^1.0.3",
+    "qs": "^6.9.4",
+    "uview-ui": "file:uview-ui"
+  },
+  "devDependencies": {
+    "babel-plugin-component": "^1.1.1"
+  }
+}

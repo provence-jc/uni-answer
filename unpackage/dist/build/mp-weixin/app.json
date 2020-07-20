@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/check",
+    "pages/index",
+    "pages/parsing",
+    "pages/submit",
+    "pages/ranking",
+    "pages/home"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

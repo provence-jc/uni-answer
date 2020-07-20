@@ -1,0 +1,162 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.container.data-v-65fe58cd {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  overflow-y: auto;
+  padding: 38rpx;
+  background-color: #409eff;
+}
+.container .title ._p.data-v-65fe58cd {
+  font-size: 38rpx;
+  color: #fff;
+  margin-bottom: 40rpx;
+  text-align: center;
+}
+.wrapper.data-v-65fe58cd {
+  height: 100%;
+  overflow-y: auto;
+  margin-top: 15rpx;
+  border-radius: 7rpx;
+}
+.wrapper .userranktitle.data-v-65fe58cd {
+  width: 90%;
+  height: 220rpx;
+  background: url("https://oea.fuhaoyun.cn/upload/images/oea_1.png") no-repeat center;
+  background-size: 90% auto;
+  text-align: center;
+  line-height: 180rpx;
+  font-size: 66rpx;
+  margin: 0 auto;
+}
+.wrapper .ranktitle.data-v-65fe58cd {
+  height: 180rpx;
+  background: url("https://oea.fuhaoyun.cn/upload/images/oea_2.png") no-repeat center;
+  background-size: 100% auto;
+  text-align: center;
+  line-height: 159rpx;
+  font-size: 66rpx;
+  margin: 50rpx auto;
+}
+.wrapper .wrap-title.data-v-65fe58cd {
+  height: 110rpx;
+  padding-left: 22rpx;
+  border-bottom: 2rpx solid #f1f1f1;
+}
+.wrapper .wrap-title ._p.data-v-65fe58cd {
+  font-size: 30rpx;
+  line-height: 110rpx;
+  text-align: center;
+}
+.wrapper .ranking.data-v-65fe58cd {
+  height: 110rpx;
+  border-radius: 15rpx;
+  background-color: #fff;
+  padding: 0 22rpx;
+  margin-top: 22rpx;
+  line-height: 75rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.wrapper .ranking .rank-item.data-v-65fe58cd {
+  font-size: 30rpx;
+  font-weight: 700;
+}
+.wrapper .ranking .rank-name.data-v-65fe58cd {
+  font-size: 30rpx;
+  margin-left: 38rpx;
+}
+.wrapper .ranking .rank-tel.data-v-65fe58cd {
+  font-size: 30rpx;
+  margin-left: 38rpx;
+}
+.wrapper .ranking .rank-info.data-v-65fe58cd {
+  width: 225rpx;
+  height: 110rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.wrapper .ranking .rank-score.data-v-65fe58cd {
+  width: 150rpx;
+  height: 46rpx;
+  background-color: #5490fe;
+  border-radius: 15rpx;
+  font-size: 30rpx;
+  color: #fff;
+  line-height: 46rpx;
+  text-align: center;
+  margin-bottom: 10rpx;
+}
+.wrapper .ranking .rank-time.data-v-65fe58cd {
+  font-size: 30rpx;
+  line-height: 29rpx;
+}
+.loading.data-v-65fe58cd {
+  height: 120rpx;
+  padding: 0 22rpx;
+  margin-top: 22rpx;
+}
+.loading .el-icon-loading.data-v-65fe58cd {
+  color: #ffac00;
+}
+.nomore.data-v-65fe58cd {
+  text-align: center;
+  font-size: 38rpx;
+}
+.info.data-v-65fe58cd {
+  width: 674rpx;
+  position: absolute;
+  bottom: 50rpx;
+  text-align: center;
+  color: #fff;
+}
+.loadmorebtn.data-v-65fe58cd {
+  margin: 50rpx 0;
+}
+

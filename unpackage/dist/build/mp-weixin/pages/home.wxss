@@ -1,0 +1,6 @@
+.container.data-v-1ad45987{position:absolute;top:0;left:0;width:100%;height:100%;background:url(http://oea.fuhaoyun.cn/upload/images/oea_3.png) no-repeat;background-size:100% 100%}.title.data-v-1ad45987{font-size:46rpx;text-align:center;padding-top:23rpx}.subtitle.data-v-1ad45987{font-size:38rpx;text-align:center;line-height:75rpx}.time.data-v-1ad45987{font-size:30rpx;text-align:center}.tips.data-v-1ad45987,
+.prize.data-v-1ad45987{padding-top:38rpx;margin:0 auto;width:620rpx}.tips .tips-text.data-v-1ad45987,
+.tips .prize-text.data-v-1ad45987,
+.prize .tips-text.data-v-1ad45987,
+.prize .prize-text.data-v-1ad45987{padding-top:23rpx;font-size:26rpx;line-height:48rpx}.tips-title.data-v-1ad45987,
+.prize-title.data-v-1ad45987{width:165rpx;height:46rpx;border-radius:46rpx;background-color:#58897e;text-align:center;font-size:30rpx;color:#fff}.address.data-v-1ad45987{display:inline-block;margin-top:23rpx}.keynode.data-v-1ad45987{color:#e2a642;font-weight:600}.startbtn.data-v-1ad45987{margin-top:75rpx;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center}.btn.data-v-1ad45987{width:675rpx;height:112.5rpx;background-color:#e2a642;border-radius:7.5rpx;border:none;color:#fff;font-size:38rpx;text-align:center}
